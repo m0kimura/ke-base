@@ -1,0 +1,27 @@
+{
+  "name": "ke-base",
+  "version": "1.0.0",
+  "description": "database manupilation base procedure",
+  "main": "ke-base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0kimura/ke-base.git"
+  },
+  "keywords": [
+    "database",
+    "table",
+    "procedure"
+  ],
+  "author": "Michihiro Kimura <kimura@kmrweb.net> (http://www.kmrweb.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m0kimura/ke-base/issues"
+  },
+  "homepage": "https://github.com/m0kimura/ke-base#readme",
+  "dependencies": {
+    "json-sql": "^0.3.11"
+  }
+}
